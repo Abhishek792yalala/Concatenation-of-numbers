@@ -1,5 +1,7 @@
 # Concatenation-of-numbers
-//Concatenation of numbers:
+
+
+
 class Code {
         public int m1(int a, int b) {
             System.out.println("concatenation of a and b is: " + a + b);
